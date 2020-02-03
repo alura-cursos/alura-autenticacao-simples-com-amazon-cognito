@@ -1,0 +1,31 @@
+.jumbotron {
+    background: -webkit-linear-gradient(top,#27546b 70%,#4a83a0 100%);
+    color: #FFF;
+}
+
+.jumbotron a {
+    color:rgb(240, 219, 104);
+    font-size:15px;
+    }
+
+.modal-header {
+    border-bottom:1px solid #eee;
+    background-color: #27546b;
+    color: #FFF;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+
+ .bg-button {
+    background-color:#27546b !important; 
+    color: #FFF;
+}
+
+.bg-button:hover{
+    color: rgb(212, 218, 236);
+}
+

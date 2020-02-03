@@ -1,0 +1,7 @@
+
+repositorio biblioteca js:
+https://github.com/aws-amplify/amplify-js/tree/master/packages/amazon-cognito-identity-js
+
+download biblioteca js->pasta dist:
+https://www.npmjs.com/package/amazon-cognito-identity-js
+
