@@ -103,7 +103,7 @@ function confirmarEsqueciSenha(userName, code, newPassword, callback) {
     console.log('confirmar esqueci senha')
 }
 
-function consultarDadosUsuario(updateCallback) {
+function consultarDadosUsuario(callback) {
     console.log('consultar dados usuário')
 }
 
